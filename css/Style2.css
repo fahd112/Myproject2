@@ -1,0 +1,28 @@
+body{
+    background-color: brown;
+}
+
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 2em;
+    color: black;
+    list-style-type: none;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+img{
+    height: 200px;
+}
+
+#myimages{
+    display: flex;
+    justify-content: space-around;
+}
